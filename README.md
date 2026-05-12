@@ -78,6 +78,7 @@ print("Root Mean Squared Error:", rmse)
 
 ## Output:
 <img width="815" height="242" alt="image" src="https://github.com/user-attachments/assets/b69600d8-4ee1-4e63-9331-212822c57e61" />
+<img width="1611" height="91" alt="image" src="https://github.com/user-attachments/assets/1be6cced-fb2e-403d-8efb-9c4d18486deb" />
 <img width="1094" height="704" alt="image" src="https://github.com/user-attachments/assets/12740d74-efb9-442c-9c20-a0d7a35ca227" />
 <img width="1213" height="701" alt="image" src="https://github.com/user-attachments/assets/aadea9ba-d4d1-4a86-9c32-0846fc430240" />
 
